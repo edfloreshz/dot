@@ -1,0 +1,15 @@
+Configuration(
+    color_scheme: Default,
+    wallpaper: "",
+    active_service: Git,
+    service_config: Services(
+        git: GitConfig(
+            url: "https://github.com/edfloreshz/dot",
+            username: "",
+            enabled: true,
+        ),
+        crdt: CrdtConfig(
+            enabled: false,
+        ),
+    ),
+)
