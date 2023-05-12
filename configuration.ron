@@ -1,5 +1,5 @@
 Configuration(
-    color_scheme: Dark,
+    color_scheme: Default,
     wallpaper: "/home/eduardo/Pictures/Screenshot_20230511_171747.png",
     active_service: Git,
     service_config: Services(
