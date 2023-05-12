@@ -1,6 +1,6 @@
 Configuration(
-    color_scheme: Default,
-    wallpaper: "",
+    color_scheme: Dark,
+    wallpaper: "/home/eduardo/Pictures/Screenshot_20230511_171747.png",
     active_service: Git,
     service_config: Services(
         git: GitConfig(
