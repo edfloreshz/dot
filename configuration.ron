@@ -6,7 +6,7 @@ Configuration(
         git: GitConfig(
             url: "https://github.com/edfloreshz/dot",
             username: "",
-            enabled: false,
+            enabled: true,
         ),
         crdt: CrdtConfig(
             enabled: false,
